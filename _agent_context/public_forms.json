@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "testeingabe",
+      "app_id": "6a021c917f18a4cc7a34585a",
+      "path": "/rest/apps/6a021c917f18a4cc7a34585a/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "telefon",
+        "datum",
+        "bemerkungen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Testeingabe — Formular"
+    }
+  ]
+}
